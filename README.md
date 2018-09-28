@@ -1,2 +1,2 @@
 # Mania-Cat
-Bongo cat for VSRG
+Bongo cat overlay for VSRG
