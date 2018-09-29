@@ -13,7 +13,7 @@ https://github.com/malad1211/Mania-Cat/releases
 Gameplay:
 https://www.youtube.com/watch?v=dzJBNSbxG8I
 
-Make it shows up in game borderless example:
+Make it shows up in-game borderless example:
 https://www.youtube.com/watch?v=AI8HFvQQLxY
 
 Borderless Gameplay (recorded separately because OBS display capture kills my framerate even harder):
