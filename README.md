@@ -5,7 +5,7 @@ Credits: u/PunyFlash and their bongo cat key tracker. It was helpful to see how 
 
 Link to u/PunyFlash 's project: https://github.com/PunyFlash/Bongo-Cat
 
-Make sure it is not minimized or it won't work. The .exe files should be self-explanatory. Use the other one when you want to see the cat in-game (ONLY works in borderless). You can also edit the sprites if you don't like my shitty mspaint skill, just don't change their names.
+Now supports 8k. Make sure it is not minimized or it won't work. The .exe files should be self-explanatory. Use the other one when you want to see the cat in-game (ONLY works in borderless). You can also edit the sprites if you don't like my shitty mspaint skill, just don't change their names.
 
 Download:
 https://github.com/malad1211/Mania-Cat/releases
